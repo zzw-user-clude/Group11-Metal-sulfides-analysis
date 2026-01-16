@@ -209,21 +209,16 @@ streamlit run streamlit_app.py
 
 ## 👥 团队成员
 
-- [成员1姓名] - 数据分析
-- [成员2姓名] - 可视化
-- [成员3姓名] - Web开发
-- [成员4姓名] - 报告撰写
+- [刘焕敏] 2501112427			
+- [郑智文] 2501212937
+- [年旭丰] 2501212916
+- [蒋坤宏] 2501212941
 
 ## 📝 参考文献
 
 1. Materials Project: https://materialsproject.org/
 2. Jain, A., et al. "Commentary: The Materials Project: A materials genome approach to accelerating materials innovation." APL Materials 1.1 (2013): 011002.
-3. [添加其他相关文献]
 
-## 📧 联系方式
-
-- 项目负责人: [邮箱]
-- 问题反馈: [GitHub Issues链接]
 
 ## 📄 许可证
 
