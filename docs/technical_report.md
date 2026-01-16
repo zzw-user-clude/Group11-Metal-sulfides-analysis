@@ -640,7 +640,7 @@ Pearson相关系数 r ≈ 0.2-0.3（弱正相关）
 
 ### B. 代码仓库
 
-GitHub: [添加链接]
+GitHub: [(https://github.com/zzw-user-clude/Group11-Metal-sulfides-analysis)]
 
 ### C. 补充图表
 
